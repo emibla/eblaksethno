@@ -1,11 +1,9 @@
 <template>
-  <div>temp</div>
+  <experience-component />
 </template>
 
-<script>
-export default {
-  name: "ExperienceComponent",
-};
+<script setup lang="ts">
+import ExperienceComponent from "@/components/ExperienceComponent.vue";
 </script>
 
 <style scoped></style>
