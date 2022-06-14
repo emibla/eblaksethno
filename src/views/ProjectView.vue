@@ -1,9 +1,7 @@
-<template>Her kommer en liste over mine prosjekter</template>
+<template><project-component /></template>
 
-<script>
-export default {
-  name: "ProjectView",
-};
+<script setup lang="ts">
+import ProjectComponent from "@/components/ProjectComponent.vue";
 </script>
 
 <style scoped></style>
