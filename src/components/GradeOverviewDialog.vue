@@ -15,8 +15,7 @@
         ved endringer.
         <br /><br />
         Link til repoet finner du
-        <v-btn
-          onclick="window.open('https://gitlab.stud.idi.ntnu.no/ekblakse/tdt4100-prosjekt-ekblakse')"
+        <v-btn onclick="window.open('https://github.com/emibla/GradeOverview')"
           >her</v-btn
         >
       </v-card-text>
