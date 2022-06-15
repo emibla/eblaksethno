@@ -20,7 +20,7 @@
         >
       </v-card-text>
       <v-card-actions>
-        <v-btn color="primary" block @click="emitCloseDialog()">Lukk</v-btn>
+        <v-btn color="purple" block @click="emitCloseDialog()">Lukk</v-btn>
       </v-card-actions>
     </v-card>
   </v-dialog>

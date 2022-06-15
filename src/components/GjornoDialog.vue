@@ -5,16 +5,18 @@
       <v-card-text>
         I emnet TDT4140 var vi en gruppe som laget en nettside for
         aktivitetsforslag. Vi brukte rammeverkene react til frontend og strapi
-        til backend. Gjennom prosjektet brukte vi Scrum som arbeidsmetode, og
-        jeg fikk prøve meg som Scrum master en periode.
-        <br /><br />
+        til backend. Jeg laget designet og jobbet for det meste med frontend. Vi
+        brukte parprogrammering underveis i prosjektet, og jobbet stort sett to
+        og to sammen.
+        <br />Gjennom prosjektet brukte vi Scrum som arbeidsmetode, og jeg fikk
+        prøve meg som Scrum master en periode. <br /><br />
         Link til repoet finner du
         <v-btn onclick="window.open('https://github.com/emibla/Gjorno')"
           >her</v-btn
         >
       </v-card-text>
       <v-card-actions>
-        <v-btn color="primary" block @click="emitCloseDialog()">Lukk</v-btn>
+        <v-btn color="purple" block @click="emitCloseDialog()">Lukk</v-btn>
       </v-card-actions>
     </v-card>
   </v-dialog>
