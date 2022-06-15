@@ -16,7 +16,7 @@
         onclick="window.open('https://www.linkedin.com/in/emilyblakseth/')"
       ></v-img>
       <v-img
-        src="github_icon.png"
+        src="github2_icon.png"
         max-width="100"
         onclick="window.open('https://github.com/emibla')"
       ></v-img>
