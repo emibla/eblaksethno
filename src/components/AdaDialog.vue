@@ -12,7 +12,7 @@
         bekjentskap med hverandre, og bedriftskvelder og turnè i både Oslo og
         Trondheim for å bli la studentene bli bedre kjent med næringslivet og
         motivere studentene til å fullføre studiene. <br /><br />
-        Dette for å skape arenaer hvor kvinner kan møte andre kvinenr i samme
+        Dette for å skape arenaer hvor kvinner kan møte andre kvinner i samme
         situasjon, kjenne på at man ikke er alene og øke motivasjonen for å
         fullføre studiene.
       </v-card-text>
