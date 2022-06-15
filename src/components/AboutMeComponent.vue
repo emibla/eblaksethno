@@ -1,8 +1,8 @@
 <template>
   <v-container class="mt-10 w-75 bg-pink">
     <v-row class="ma-5"> <h1>Velkommen!</h1></v-row>
-    <v-row class="ma-5" sm="12" md="6">
-      <v-col>
+    <v-row class="ma-5">
+      <v-col cols="12" sm="10" md="6">
         Heii! <span class="wave">👋</span> Jeg heter Emily. <br /><br />
         Jeg kommer fra Molde, bor i Trondheim og studerer Datateknologi ved NTNU
         med retning Databaser og søk.<br />Jeg er ferdig med tredje året nå, og
@@ -16,8 +16,11 @@
         Jeg har laget en hjemmeside for å bli bedre kjent med frontend og få
         litt erfaring med rammeverket Vue.
       </v-col>
-      <v-col><v-img src="../assets/D0FDCD3D.jpg" class="ml-5"></v-img></v-col
-    ></v-row>
+
+      <v-col sm="10" md="6">
+        <v-img src="../assets/D0FDCD3D.jpg" class="ml-5"></v-img
+      ></v-col>
+    </v-row>
   </v-container>
 </template>
 
