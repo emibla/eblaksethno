@@ -6,7 +6,7 @@
         Heii! <span class="wave">👋</span> Jeg heter Emily. <br /><br />
         Jeg kommer fra Molde, bor i Trondheim og studerer Datateknologi ved NTNU
         med retning Databaser og søk.<br />Jeg er ferdig med tredje året nå, og
-        er ferdig sommeren 2024. <br /><br />
+        fullfører mastergraden sommeren 2024. <br /><br />
         Ved siden av studiene jobber jeg blant annet for Ada NTNU, et prosjekt
         med fokus på å øke kvinneandelen som fullfører enkelte teknologistudier
         ved NTNU. <br />
@@ -17,8 +17,8 @@
         litt erfaring med rammeverket Vue.
       </v-col>
 
-      <v-col sm="10" md="6">
-        <v-img src="../assets/D0FDCD3D.jpg" class="ml-5"></v-img
+      <v-col sm="12" md="6">
+        <v-img src="../assets/D0FDCD3D.jpg" class="md-ml-5"></v-img
       ></v-col>
     </v-row>
   </v-container>
