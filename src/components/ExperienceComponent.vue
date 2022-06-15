@@ -103,7 +103,7 @@ const experiences = ref([
   {
     title: "Prosjektassistent Ada_ntnu",
     date: "Våren 2019-dd",
-    src: "ada.jpg",
+    src: "ada.JPG",
     onClick: showAdaDialog,
   },
   {

@@ -4,7 +4,7 @@
     <v-row class="ma-5">Du finner meg her: </v-row>
     <v-row class="ma-5">
       <v-img
-        src="instagram_icon.png"
+        src="Instagram_icon.png"
         max-width="100"
         class="mr-5"
         onclick="window.open('https://www.instagram.com/eblakseth/')"
