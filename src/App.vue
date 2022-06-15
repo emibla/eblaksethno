@@ -8,7 +8,7 @@
       <v-btn @click="router.push('contact')">Kontakt meg</v-btn></v-app-bar
     ><v-main> <router-view /> </v-main>
     <v-footer class="bg-pink-lighten-4 text-center"
-      ><v-spacer /> Juli 2022 <v-spacer />
+      ><v-spacer /> Juni 2022 <v-spacer />
     </v-footer>
   </v-app>
 </template>
