@@ -14,7 +14,8 @@
         motivere studentene til å fullføre studiene. <br /><br />
         Dette for å skape arenaer hvor kvinner kan møte andre kvinner i samme
         situasjon, kjenne på at man ikke er alene og øke motivasjonen for å
-        fullføre studiene.
+        fullføre studiene.<br /><br />
+        Foto: Kai T. Dragland
       </v-card-text>
       <v-card-actions>
         <v-btn color="purple" block @click="emitCloseDialog()">Lukk</v-btn>
