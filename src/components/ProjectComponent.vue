@@ -10,7 +10,7 @@
       Klikk på bildene for å lese litt om prosjektene.
     </v-row>
     <v-row>
-      <v-col v-for="project in projects" :key="project.title">
+      <v-col v-for="project in projects" :key="project.title" sm="8" md="6">
         <v-card class="ma-5">
           <v-card-title
             class="bg-pink-darken-4"
