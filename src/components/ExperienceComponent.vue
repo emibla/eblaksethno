@@ -97,25 +97,25 @@ const experiences = ref([
   {
     title: "Summer Intern hos Bekk",
     date: "Sommer 2022",
-    src: "bekk_icon.png",
+    src: "bekk.jpg",
     onClick: showBekkDialog,
   },
   {
     title: "Prosjektassistent Ada_ntnu",
     date: "Våren 2019-dd",
-    src: "ada.JPG",
+    src: "ada.jpg",
     onClick: showAdaDialog,
   },
   {
     title: "Deltaker Talent Network Netcompany",
     date: "Mars 2022",
-    src: "netcompany.png",
+    src: "netcompany.PNG",
     onClick: showNetcompanyDialog,
   },
   {
     title: "Referansegruppe Informasjonsgjenfinning",
     date: "Høstsemesteret 2021",
-    src: "ntnu_icon.png",
+    src: "ntnu.PNG",
     onClick: showRefgruppeDialog,
   },
   {
@@ -127,7 +127,7 @@ const experiences = ref([
   {
     title: "Foredragsholder Jenter og teknologi",
     date: "2018-2019",
-    src: "IMG_1250.jpg",
+    src: "jenterogtek.jpg",
     onClick: showJenterDialog,
   },
   {
@@ -145,25 +145,25 @@ const experiences = ref([
   {
     title: "Tillitsvalgt ved Institutt IAL",
     date: "2017-2018",
-    src: "ntnu_icon.png",
+    src: "ntnu.PNG",
     onClick: showItvDialog,
   },
   {
-    title: "Assisterende daglig leder Telia",
+    title: "Assisterende daglig leder Telia Shop Solsiden",
     date: "November 2014 - August 2017",
-    src: "telia.jpeg",
+    src: "telia.PNG",
     onClick: showTeliaDialog,
   },
   {
     title: "Kundekonsulent Telia",
     date: "August 2011 - November 2014",
-    src: "telia.jpeg",
+    src: "telia.PNG",
     onClick: showTeliaKSDialog,
   },
   {
     title: "Lokallagsleder og fylkeskontakt Juvente",
     date: "2005 - 2010",
-    src: "juvente_icon.jpeg",
+    src: "juvente.JPG",
     onClick: showJuventeDialog,
   },
 ]);
