@@ -3,8 +3,8 @@
     <v-card>
       <v-card-title>Prosjektassistent Ada_ntnu</v-card-title>
       <v-card-text>
-        Det kan til tider være tøft å være kvinne i et mannsdominert yrke og
-        studie, og samfunnet trenger flere kvinnelige teknologer.
+        Samfunnet trenger flere kvinnelige teknologer, men det kan til tider
+        være tøft å være kvinne i et mannsdominert yrke og studie.
         <br /><br />Ada_ntnu jobber for at flere jenter skal fullføre sine
         teknologistudier. Dette gjør vi gjennom å arrangere ulike arrangement
         for studentene ved våre linjer, for eksempel faglige codehubs som CTF og
